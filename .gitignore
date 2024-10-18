@@ -1,0 +1,22 @@
+# Diretórios de build
+/build
+/.gradle
+/app/build
+# Arquivos de configuração local
+/local.properties
+# Arquivos do Android Studio
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/misc.xml
+.idea/gradle.xml
+# Dependências
+*.iml
+.gradle
+# Produtos de build
+*.apk
+*.aar
+*.jar
